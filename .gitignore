@@ -1,0 +1,8 @@
+.env
+chat_history.db
+MAT-TIP_43-MMT_Guidelines2005.pdf
+medical_ai_training_data.csv
+chroma_db_latest
+csv_finetuned_model
+uploads/*
+__pycache__
